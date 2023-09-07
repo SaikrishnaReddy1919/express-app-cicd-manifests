@@ -18,7 +18,7 @@ spec:
         app: express-app-cicd-demo
     spec:
       containers:
-        - image: saikrishnareddy01/express-app-cicd:21
+        - image: saikrishnareddy01/express-app-cicd:22
           name: express-app-cicd-demo
           resources: {}
 status: {}
